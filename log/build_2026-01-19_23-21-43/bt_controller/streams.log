@@ -1,0 +1,28 @@
+[0.043s] Invoking command in '/home/baymax/dev_ws/build/bt_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/baymax/turtlebot4_ws/install/turtlebot4_tests:/home/baymax/turtlebot4_ws/install/turtlebot4_diagnostics:/home/baymax/turtlebot4_ws/install/create3_teleop:/home/baymax/turtlebot4_ws/install/create3_examples_py:/opt/ros/humble /usr/bin/cmake --build /home/baymax/dev_ws/build/bt_controller -- -j8 -l8
+[0.146s] [35m[1mConsolidate compiler generated dependencies of target bt_main[0m
+[0.196s] [ 50%] [32mBuilding CXX object CMakeFiles/bt_main.dir/src/bt_main.cpp.o[0m
+[12.040s] [100%] [32m[1mLinking CXX executable bt_main[0m
+[12.654s] [100%] Built target bt_main
+[12.670s] Invoked command in '/home/baymax/dev_ws/build/bt_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/baymax/turtlebot4_ws/install/turtlebot4_tests:/home/baymax/turtlebot4_ws/install/turtlebot4_diagnostics:/home/baymax/turtlebot4_ws/install/create3_teleop:/home/baymax/turtlebot4_ws/install/create3_examples_py:/opt/ros/humble /usr/bin/cmake --build /home/baymax/dev_ws/build/bt_controller -- -j8 -l8
+[12.672s] Invoking command in '/home/baymax/dev_ws/build/bt_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/baymax/turtlebot4_ws/install/turtlebot4_tests:/home/baymax/turtlebot4_ws/install/turtlebot4_diagnostics:/home/baymax/turtlebot4_ws/install/create3_teleop:/home/baymax/turtlebot4_ws/install/create3_examples_py:/opt/ros/humble /usr/bin/cmake --install /home/baymax/dev_ws/build/bt_controller
+[12.681s] -- Install configuration: ""
+[12.682s] -- Installing: /home/baymax/dev_ws/install/bt_controller/lib/bt_controller/bt_main
+[12.688s] -- Set runtime path of "/home/baymax/dev_ws/install/bt_controller/lib/bt_controller/bt_main" to ""
+[12.688s] -- Up-to-date: /home/baymax/dev_ws/install/bt_controller/share/bt_controller/bt_xml
+[12.688s] -- Installing: /home/baymax/dev_ws/install/bt_controller/share/bt_controller/bt_xml/simple_bt.xml
+[12.689s] -- Up-to-date: /home/baymax/dev_ws/install/bt_controller/share/ament_index/resource_index/package_run_dependencies/bt_controller
+[12.689s] -- Up-to-date: /home/baymax/dev_ws/install/bt_controller/share/ament_index/resource_index/parent_prefix_path/bt_controller
+[12.689s] -- Up-to-date: /home/baymax/dev_ws/install/bt_controller/share/bt_controller/environment/ament_prefix_path.sh
+[12.689s] -- Up-to-date: /home/baymax/dev_ws/install/bt_controller/share/bt_controller/environment/ament_prefix_path.dsv
+[12.689s] -- Up-to-date: /home/baymax/dev_ws/install/bt_controller/share/bt_controller/environment/path.sh
+[12.689s] -- Up-to-date: /home/baymax/dev_ws/install/bt_controller/share/bt_controller/environment/path.dsv
+[12.689s] -- Up-to-date: /home/baymax/dev_ws/install/bt_controller/share/bt_controller/local_setup.bash
+[12.689s] -- Up-to-date: /home/baymax/dev_ws/install/bt_controller/share/bt_controller/local_setup.sh
+[12.689s] -- Up-to-date: /home/baymax/dev_ws/install/bt_controller/share/bt_controller/local_setup.zsh
+[12.689s] -- Up-to-date: /home/baymax/dev_ws/install/bt_controller/share/bt_controller/local_setup.dsv
+[12.690s] -- Installing: /home/baymax/dev_ws/install/bt_controller/share/bt_controller/package.dsv
+[12.690s] -- Up-to-date: /home/baymax/dev_ws/install/bt_controller/share/ament_index/resource_index/packages/bt_controller
+[12.690s] -- Up-to-date: /home/baymax/dev_ws/install/bt_controller/share/bt_controller/cmake/bt_controllerConfig.cmake
+[12.690s] -- Up-to-date: /home/baymax/dev_ws/install/bt_controller/share/bt_controller/cmake/bt_controllerConfig-version.cmake
+[12.690s] -- Up-to-date: /home/baymax/dev_ws/install/bt_controller/share/bt_controller/package.xml
+[12.692s] Invoked command in '/home/baymax/dev_ws/build/bt_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/baymax/turtlebot4_ws/install/turtlebot4_tests:/home/baymax/turtlebot4_ws/install/turtlebot4_diagnostics:/home/baymax/turtlebot4_ws/install/create3_teleop:/home/baymax/turtlebot4_ws/install/create3_examples_py:/opt/ros/humble /usr/bin/cmake --install /home/baymax/dev_ws/build/bt_controller

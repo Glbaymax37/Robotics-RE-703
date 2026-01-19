@@ -1,0 +1,17 @@
+/home/baymax/dev_ws/install/bt_controller/lib/bt_controller/bt_main
+/home/baymax/dev_ws/install/bt_controller/share/bt_controller/bt_xml/simple_bt.xml
+/home/baymax/dev_ws/install/bt_controller/share/ament_index/resource_index/package_run_dependencies/bt_controller
+/home/baymax/dev_ws/install/bt_controller/share/ament_index/resource_index/parent_prefix_path/bt_controller
+/home/baymax/dev_ws/install/bt_controller/share/bt_controller/environment/ament_prefix_path.sh
+/home/baymax/dev_ws/install/bt_controller/share/bt_controller/environment/ament_prefix_path.dsv
+/home/baymax/dev_ws/install/bt_controller/share/bt_controller/environment/path.sh
+/home/baymax/dev_ws/install/bt_controller/share/bt_controller/environment/path.dsv
+/home/baymax/dev_ws/install/bt_controller/share/bt_controller/local_setup.bash
+/home/baymax/dev_ws/install/bt_controller/share/bt_controller/local_setup.sh
+/home/baymax/dev_ws/install/bt_controller/share/bt_controller/local_setup.zsh
+/home/baymax/dev_ws/install/bt_controller/share/bt_controller/local_setup.dsv
+/home/baymax/dev_ws/install/bt_controller/share/bt_controller/package.dsv
+/home/baymax/dev_ws/install/bt_controller/share/ament_index/resource_index/packages/bt_controller
+/home/baymax/dev_ws/install/bt_controller/share/bt_controller/cmake/bt_controllerConfig.cmake
+/home/baymax/dev_ws/install/bt_controller/share/bt_controller/cmake/bt_controllerConfig-version.cmake
+/home/baymax/dev_ws/install/bt_controller/share/bt_controller/package.xml

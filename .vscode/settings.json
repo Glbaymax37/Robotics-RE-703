@@ -1,0 +1,32 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/baymax/turtlebot4_ws/build/turtlebot4_tests",
+        "/home/baymax/turtlebot4_ws/install/turtlebot4_tests/lib/python3.10/site-packages",
+        "/home/baymax/turtlebot4_ws/build/turtlebot4_diagnostics",
+        "/home/baymax/turtlebot4_ws/install/turtlebot4_diagnostics/lib/python3.10/site-packages",
+        "/home/baymax/turtlebot4_ws/build/create3_teleop",
+        "/home/baymax/turtlebot4_ws/install/create3_teleop/lib/python3.10/site-packages",
+        "/home/baymax/turtlebot4_ws/build/create3_examples_py",
+        "/home/baymax/turtlebot4_ws/install/create3_examples_py/lib/python3.10/site-packages",
+        "/home/baymax/turtlebot4_ws/install/create3_examples_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages",
+        "/home/baymax/microros_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages",
+        "/home/baymax/microros_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/baymax/turtlebot4_ws/build/turtlebot4_tests",
+        "/home/baymax/turtlebot4_ws/install/turtlebot4_tests/lib/python3.10/site-packages",
+        "/home/baymax/turtlebot4_ws/build/turtlebot4_diagnostics",
+        "/home/baymax/turtlebot4_ws/install/turtlebot4_diagnostics/lib/python3.10/site-packages",
+        "/home/baymax/turtlebot4_ws/build/create3_teleop",
+        "/home/baymax/turtlebot4_ws/install/create3_teleop/lib/python3.10/site-packages",
+        "/home/baymax/turtlebot4_ws/build/create3_examples_py",
+        "/home/baymax/turtlebot4_ws/install/create3_examples_py/lib/python3.10/site-packages",
+        "/home/baymax/turtlebot4_ws/install/create3_examples_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages",
+        "/home/baymax/microros_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages",
+        "/home/baymax/microros_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages"
+    ]
+}
