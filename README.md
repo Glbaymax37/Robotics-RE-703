@@ -356,12 +356,6 @@ To add a new behavior node to the controller:
 
 ---
 
-## 📄 License
-
-[TODO: License information]
-
----
-
 ## 📝 Notes
 
 - Remember to update package descriptions in `package.xml` files
