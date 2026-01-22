@@ -1,0 +1,11 @@
+<root main_tree_to_execute = "MainTree">
+    <BehaviorTree ID="MainTree">
+        <Fallback name="MainLogic">
+            <Sequence name="TurnSequence">
+                <FrontBlocked/>
+                <TurnToBestDirection/>
+            </Sequence>
+            <FollowRightWall/>
+        </Fallback>
+    </BehaviorTree>
+</root>

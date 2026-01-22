@@ -1,0 +1,17 @@
+<root main_tree_to_execute="MainTree">
+  <BehaviorTree ID="MainTree">
+    <RepeatUntilSuccess>
+      <Fallback>
+        <Sequence>
+          <GoalReached/>
+        </Sequence>
+        <Sequence>
+          <Inverter>
+            <MoveForward/>
+          </Inverter>
+          <Turn/>
+        </Sequence>
+      </Fallback>
+    </RepeatUntilSuccess>
+  </BehaviorTree>
+</root>
