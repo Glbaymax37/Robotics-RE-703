@@ -356,14 +356,6 @@ To add a new behavior node to the controller:
 
 ---
 
-## 👤 Maintainer
-
-**Josh Newans** - Original robot template creator
-
-**Current Maintainer**: zain-daffa
-
----
-
 ## 📄 License
 
 [TODO: License information]
