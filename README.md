@@ -1,7 +1,7 @@
 # Articubot One - ROS 2 Mobile Robot Project
-#RICARD RIOVALDO SIMATUPANG
-#NIM 4222201043
-#TEKNIK ROBOTIKA PAGI - B
+## RICARD RIOVALDO SIMATUPANG
+## NIM 4222201043
+## TEKNIK ROBOTIKA PAGI - B
 
 A comprehensive ROS 2 project featuring an articulated mobile robot with behavior tree-based navigation and control system.
 
